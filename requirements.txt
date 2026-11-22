@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+flask-cors>=5.0,<7
+psutil>=5.9,<8
+requests>=2.31,<3
+pyTelegramBotAPI>=4.20,<6
+gunicorn>=23,<24
